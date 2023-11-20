@@ -33,7 +33,7 @@ E.g., if the user enters 10 followed by 2017, 31 days should be displayed.
 
 Question 3 - Task 1: 
 Write a program that will perform the tasks described above. A year is a leap year if: 
-it is exactly divisible by 4 but is not exactly divisible by 100 except if it is exactly divisible by 400 
+it is exactly divisible by 4 but is not exactly divisible by 100 except if it is exactly divisible by 400. 
 (2016 and 2000 were both leap years but 1900 was not.)
 
 Question 3 - Task 2: 
@@ -41,9 +41,9 @@ Extend the program so that it determines whether or not the input year is a leap
 
 Question 3 - Task 3: 
 Test the program works by entering the following months and years: 
-Month: 10	Year: 2017 
-Month: 6	Year: 2016 
-Month: 2	Year: 2017 
-Month: 2	Year: 2100 
-Month: 2	Year: 2000 
-Month: 2	Year: 2020 
+Month: 10	Year: 2017, 
+Month: 6	Year: 2016, 
+Month: 2	Year: 2017, 
+Month: 2	Year: 2100, 
+Month: 2	Year: 2000, 
+Month: 2	Year: 2020,
