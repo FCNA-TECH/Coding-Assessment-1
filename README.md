@@ -8,7 +8,7 @@ Question 1 (6 Marks) - A program is required to simulate rolling a die.
 The program should keep 'rolling the die' until a 6 is rolled. 
 After the 6 is rolled, the program must display how many 'rolls' it took to get a 6.  
 
-Question 2 (10 Marks) - Write a program which Will initially allow 
+Question 2 (10 Marks) - Write a program which will initially allow 
 the user to enter a number between 1 and 100 and determine whether the 
 number is ODD/ EVEN. You will need to write a function to return whether the 
 number is odd or even, the main program should prompt user to enter number 
