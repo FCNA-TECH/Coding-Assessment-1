@@ -1,6 +1,6 @@
 # Coding-Assessment-1
 This repository contains all my solutions to a coding assessment I have recently received, the whole assesment is made up of 3 questions with
-the third question having 3 sub questions in it. I had around under 40 min to programme and submit all my solutions. 
+the third question having 3 sub tasks in it. I had around under 40 min to programme and submit all my solutions. 
 All programmes are written in C#.
 
 
